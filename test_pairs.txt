@@ -1,0 +1,12 @@
+sample01.jpg 01260_00.jpg
+sample02.jpg 01260_00.jpg
+sample01.jpg 01430_00.jpg
+sample02.jpg 01430_00.jpg
+sample03.jpg 01430_00.jpg
+sample04.jpg 01430_00.jpg
+sample01.jpg 02783_00.jpg
+sample02.jpg 02783_00.jpg
+sample01.jpg 09933_00.jpg
+sample02.jpg 09933_00.jpg
+sample03.jpg 11351_00.jpg
+sample04.jpg 11351_00.jpg
