@@ -13,7 +13,7 @@ The model takes several items as input.
 
 For simplicity, we re-used the sample cloth images provided by [VITON-HD](https://github.com/shadow2496/VITON-HD).
 
-## Execution Environemnt
+## Execution Environment
 
 All codes, except image rescaling and quantizing were performed on Google Colab due to computational limitations.
 
