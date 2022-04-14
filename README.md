@@ -44,7 +44,12 @@ All codes, except image rescaling and quantizing were performed on Google Colab 
 
 4. After obtaining the Person Mask images from the Part Grouping Network, we have to do some processing. This is because, the image generated are in RGB form, while [VITON-HD](https://github.com/shadow2496/VITON-HD) requires image with color ranges 0 to 19. We perform quantizing with the [convert.py](./convert.py) script.
 
-5. Finally, parse all the pre-processed images into [VITON-HD](https://github.com/shadow2496/VITON-HD).
+5. Finally, parse all the pre-processed images into [VITON-HD](https://github.com/shadow2496/VITON-HD). The command to execute the code can be found below.
+
+```
+!pip install opencv-python torchgeometry
+!python test.py --name out
+```
 
 ## Credits to
 
