@@ -34,7 +34,7 @@ All codes, except image rescaling and quantizing were performed on Google Colab 
 !cd openpose && ./build/examples/openpose/openpose.bin --image-dir ../img --display 0  --write_images ../out --hand --disable-blending
 ```
 
-3. Parse the resized images to CIHP_PGN](https://github.com/Engineering-Course/CIHP_PGN). The command to execute the code can be found below. This model needs some further pre-processing of the images. More information for the prepare_dataset.py can be found [here](https://github.com/Engineering-Course/CIHP_PGN/issues/38#issuecomment-560973424).
+3. Parse the resized images to [CIHP_PGN](https://github.com/Engineering-Course/CIHP_PGN). The command to execute the code can be found below. This model needs some further pre-processing of the images. More information for the prepare_dataset.py can be found [here](https://github.com/Engineering-Course/CIHP_PGN/issues/38#issuecomment-560973424).
 
 ```
 %tensorflow_version 1.x                 # Tensorflow v1 is used.
